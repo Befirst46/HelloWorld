@@ -1,0 +1,10 @@
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\bin\Debug\windows Form.exe.config
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\bin\Debug\windows Form.exe
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\bin\Debug\windows Form.pdb
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\obj\Debug\windows Form.csprojAssemblyReference.cache
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\obj\Debug\windows_Form.Properties.Resources.resources
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\obj\Debug\windows Form.csproj.GenerateResource.cache
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\obj\Debug\windows Form.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\obj\Debug\windows Form.exe
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\obj\Debug\windows Form.pdb
+C:\Users\ADmin\Documents\GitHub\HelloWorld\windows Form\windows Form\obj\Debug\windows_Form.Form1.resources
